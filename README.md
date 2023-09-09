@@ -74,6 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![Uploading My Portfolio - localhost-5.png…]()
 
 ###You Tube link
+<br><br>
+🔰 You Can Watch Now 👉 https://youtu.be/bwd_frndXAw?si=xnRjQSf8aO2OuVTo
 <br>
 ![final-4](https://github.com/SE-LAPS/My-NEW-CV/assets/87580847/0d94b2c1-ff5a-4246-8d01-da2d7654facd)
 
